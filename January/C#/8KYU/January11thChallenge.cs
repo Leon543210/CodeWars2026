@@ -1,6 +1,6 @@
 using System.Collections;
 
-public class January10thChallenge : MonoBehaviour{
+public class January11thChallenge : MonoBehaviour{
 
 //Title : Convert a Number to a String!
 //Source : https://www.codewars.com/kata/5265326f5fda8eb1160004c8/csharp
