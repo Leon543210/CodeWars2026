@@ -2,7 +2,8 @@ using System.Collections;
 
 public class January12thChallenge : MonoBehaviour{
 
-//Instructions
+//Instructions - Grasshopper - Terminal game move function
+//Source: https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/train/csharp
 
 /*
     Terminal game move function
@@ -14,6 +15,8 @@ public class January12thChallenge : MonoBehaviour{
 
     Example:
         move(3, 6) should equal 15
+
+
 */
 
 
